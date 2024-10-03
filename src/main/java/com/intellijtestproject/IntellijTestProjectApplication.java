@@ -8,6 +8,7 @@ public class IntellijTestProjectApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(IntellijTestProjectApplication.class, args);
+        System.out.println("dev branch");
     }
 
 }
